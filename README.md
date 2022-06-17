@@ -1,2 +1,2 @@
 # Symptom-Checker
-A symptoms checker to suggest diseases based on symptoms
+A symptoms checker to suggest tests based on symptoms
